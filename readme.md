@@ -3,7 +3,7 @@
 
 # Introduction 
 
-This projects helps to identify and classify the named entities present in the given sentence. 
+This projects helps to identify and classify the named entities present in the given sentence using CRF algorithm. 
 
 example: ViratKohli is great cricketer from India <br><br> 
 The above sentence contains two entities: <br> 
